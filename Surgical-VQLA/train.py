@@ -1,4 +1,3 @@
-
 '''
 Description     : Train model.
 Paper           : Surgical-VQLA: Transformer with Gated Vision-Language Embedding for 
