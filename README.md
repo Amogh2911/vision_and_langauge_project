@@ -65,7 +65,7 @@ The structure is as follows:
 
 ## Checkpoint
 
-[Link] (https://colab.research.google.com/drive/19tRxd0Riaw8D_2Dv12kpJHP9463lF2nW?usp=sharing)
+[Link] (https://drive.google.com/drive/folders/1EKlh5X4sHrh-sa8IwP8CLZjyzCR5UMHL?usp=sharing)
 <!-- 1. EndoVis-18-VQA (Image frames can be downloaded directly from EndoVis Challenge Website)
     - [VQLA](https://drive.google.com/file/d/1m7CSNY9PcUoCAUO_DoppDCi_l2L2RiFN/view?usp=sharing)
 2. EndoVis-17-VLQA (External Validation Set)
